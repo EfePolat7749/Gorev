@@ -1,0 +1,9 @@
+name: Gorev
+api: 3.15.2+dev
+version: 1.0
+main: sure\Base
+author: iEfePolat
+
+commands: 
+  gorev:
+    description: "test"
